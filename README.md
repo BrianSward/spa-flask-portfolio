@@ -11,4 +11,4 @@
 To Do List
  - [] Break out sections in seperate html files
  - [] Add Projects and photos to site
- - [] Host site
+ - [x] Host site _Completed 3/17/2023_
