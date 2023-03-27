@@ -9,6 +9,7 @@
 ### 3/16/2023
 
 To Do List
- - [ ] Break out sections in seperate html files
- - [ ] Add Projects and photos to site
+ - [ ] Break out sections in separate html files
+ - [x] Added links to university, coding academy, and github/projects
+ - [x] Add Projects and personal photo to site
  - [x] Host site _Completed 3/17/2023_
